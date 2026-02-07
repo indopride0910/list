@@ -1,0 +1,2 @@
+# Approved IPv6 addresses for file downloader
+2001:4455:4dd:c500:bd50:1db8:fb6:b95a
